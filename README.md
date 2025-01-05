@@ -83,8 +83,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Code of Conduct
 [Terms and Conditions](CODE_OF_CONDUCT.md)
 
-## LinkedIn
-https://www.linkedin.com/in/nkrgupta999
-
-## Connect 
-https://linktr.ee/nkrgupta999
