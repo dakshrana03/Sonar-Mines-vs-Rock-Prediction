@@ -72,7 +72,7 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 
 ## Acknowledgements
 UCI Machine Learning Repository for providing the SONAR dataset.
-Nitin Kumar Gupta for developing and maintaining this project.
+Daksh Rana for developing and maintaining this project.
 
 ## Disclaimer
 Please note that the information contained in this repository is provided for informational purposes only. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the information contained in this repository for any purpose. Any reliance on such information is therefore strictly at your own risk.
